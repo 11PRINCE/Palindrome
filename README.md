@@ -1,2 +1,2 @@
-# Palindrome
+# LeetCode
 JAVA Programming
