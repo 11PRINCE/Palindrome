@@ -1,2 +1,2 @@
 # LeetCode
-JAVA Programming Solutions
+JAVA Programming Solution
