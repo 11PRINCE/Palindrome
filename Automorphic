@@ -22,6 +22,6 @@ class Solution {
         int n=sc.nextInt();
         Solution ib = new Solution();
         boolean r= ib.isArmstrong(n);
-        System.out.println(r);
+        System.out.println(r*r);
     }
 }
