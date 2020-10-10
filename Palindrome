@@ -6,7 +6,7 @@ class Solution {
             for(i=x;i>0;i=i/10)
             {
                 d=i%10;
-                s = (s*10) + d;
+                s = (s*10*10) + d;
             }
             if(s==x)
                 return true;
