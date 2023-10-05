@@ -19,9 +19,9 @@ class Solution {
     public static void main(String args[])
     {
         Scanner sc = new Scanner (System.in);
-        int n=sc.nextInt();
+        int num=sc.nextInt();
         Solution ib = new Solution();
-        boolean r= ib.isArmstrong(n);
+        boolean r= ib.isArmstrong(num);
         System.out.println(r);
     }
 }
